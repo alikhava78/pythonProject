@@ -1,2 +1,2 @@
-print("moz")
+print("mos")
 
